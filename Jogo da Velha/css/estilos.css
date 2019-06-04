@@ -1,0 +1,61 @@
+*{
+
+}
+
+.jumbotron {
+  text-align: center;
+  font-family:fantasy;
+}
+
+body{
+  background-color: rgb(0, 0, 0);
+}
+
+.col-md-12{
+  margin-bottom: 20px;
+}
+ .row h1{
+   color: rgb(255, 255, 255);
+   font-size: 200%;
+   text-align: center;
+   font-family: fantasy;
+ }
+
+ .row label{
+   color: rgb(255, 255, 255);
+
+ }
+
+button{
+  margin-top: 5px;
+}
+
+
+.container{
+  margin-top: 20px;
+  background-color: rgb(47, 47, 47);
+}
+
+main{
+     margin-top: 50px;
+}
+
+.calculadora{
+      background-color:rgb(24, 22, 23);
+      
+}
+
+footer{
+  margin-top: 60px;
+  background-color: rgb(140, 140, 140);
+
+}
+
+footer p{
+       color: rgb(255, 255, 255);
+       margin-top: 30px;
+}
+
+footer{
+  text-align: center;
+}
