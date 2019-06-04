@@ -13,6 +13,14 @@ $(document).on("click","#O",function(){
 
 });
 
-$(document).on("click",".casa1",function(){
-  
-})
+$(document).on("click",".casa",function(){
+
+  if(simbolo == 1){
+    $(".casa").val() = "X";
+  }
+
+  if(simbolo == 2){
+    $(".casa").val() = "O";
+  }
+
+});

@@ -1,6 +1,60 @@
 
 
 
+.casa1{
+  height: 200px;
+  width: 200px;
+}
+
+.casa2{
+  height: 200px;
+  width: 200px;
+
+}
+
+.casa3{
+  height: 200px;
+  width: 200px;
+
+}
+
+.casa4{
+  height: 200px;
+  width: 200px;
+}
+
+.casa5{
+  height: 200px;
+  width: 200px;
+
+}
+
+.casa6{
+  height: 200px;
+  width: 200px;
+
+}
+
+.casa7{
+  height: 200px;
+  width: 200px;
+}
+
+.casa8{
+  height: 200px;
+  width: 200px;
+
+}
+
+.casa9{
+  height: 200px;
+  width: 200px;
+
+}
+
+.col-md-4{
+  float: left;
+}
 
 .casa{
 
@@ -11,4 +65,5 @@
     min-width: 10%;
     text-decoration:none;
     cursor: pointer;
+    margin-right: 30px;
 }
