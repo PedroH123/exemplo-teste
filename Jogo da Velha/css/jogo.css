@@ -1,18 +1,75 @@
 
-.linha{
+
+
+.casa1{
   border: solid 3px;
   color: rgb(255, 255, 255);
   height: 200px;
+  width: 200px;
 }
 
-.linha2{
+.casa2{
   border: solid 3px;
   color: rgb(255, 255, 255);
   height: 200px;
+  width: 200px;
+
 }
 
-.linha3{
+.casa3{
   border: solid 3px;
   color: rgb(255, 255, 255);
   height: 200px;
+  width: 200px;
+
+}
+
+.casa4{
+  border: solid 3px;
+  color: rgb(255, 255, 255);
+  height: 200px;
+  width: 200px;
+}
+
+.casa5{
+  border: solid 3px;
+  color: rgb(255, 255, 255);
+  height: 200px;
+  width: 200px;
+
+}
+
+.casa6{
+  border: solid 3px;
+  color: rgb(255, 255, 255);
+  height: 200px;
+  width: 200px;
+
+}
+
+.casa7{
+  border: solid 3px;
+  color: rgb(255, 255, 255);
+  height: 200px;
+  width: 200px;
+}
+
+.casa8{
+  border: solid 3px;
+  color: rgb(255, 255, 255);
+  height: 200px;
+  width: 200px;
+
+}
+
+.casa9{
+  border: solid 3px;
+  color: rgb(255, 255, 255);
+  height: 200px;
+  width: 200px;
+
+}
+
+.col-md-4{
+  float: left;
 }
