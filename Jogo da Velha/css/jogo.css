@@ -54,6 +54,7 @@
 
 .col-md-4{
   float: left;
+
 }
 
 .casa{
@@ -62,6 +63,18 @@
     color: white;
     padding: 95px 95px;
     font-size: 20px;
+    min-width: 10%;
+    text-decoration:none;
+    cursor: pointer;
+    margin-right: 30px;
+}
+
+#resetar{
+  width: 600px;
+  background-color:rgb(161, 16, 16);
+
+    color: white;
+    font-size: 15px;
     min-width: 10%;
     text-decoration:none;
     cursor: pointer;

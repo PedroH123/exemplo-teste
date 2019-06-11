@@ -58,6 +58,7 @@ if($("#botao1").val() == "x" && $("#botao2").val() == "x" && $("#botao3").val() 
         $("#botao3").val() == "x" && $("#botao5").val() == "x" && $("#botao7").val() == "x"){
 
             alert("X venceu");
+
             desabilitar();
 
         }
