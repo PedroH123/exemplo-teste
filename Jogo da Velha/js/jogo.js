@@ -30,7 +30,7 @@ $(document).on("click",".casa",function(){
 
 var valor = $(this).val();
 if(vez == "x" && valor == ""){
-  $(this).css("background-image", "url(imagens/x.jpg)");
+  $(this).css("background-image", "url(imagens/X.png)");
 
   $(this).val("x");
 
@@ -40,7 +40,7 @@ if(vez == "x" && valor == ""){
 }
 
 else if(vez == "o" && valor == ""){
-  $(this).css("background-image", "url(imagens/o.jpg)");
+  $(this).css("background-image", "url(imagens/O.png)");
 
   $(this).val("o");
 
